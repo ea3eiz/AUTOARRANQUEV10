@@ -7,7 +7,7 @@ Type=Application
 StartupNotify=false
 Categories=GTK;Utility;TerminalEmulator;
 Terminal=false
-Name[es_ES]=Abrir BMX
+Name[es_ES]=Abrir BM
 Hidden=false
 Comment[es_ES]=EA3EIZ
 
