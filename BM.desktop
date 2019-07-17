@@ -1,13 +1,13 @@
 [Desktop Entry]
 Encoding=UTF-8
 TryExec=lxterminal
-Exec=sh -c 'cd /home/pi/V7;sleep 5;lxterminal --geometry=72x15 -e sudo sh ejecutar_bm_30.sh'
-Icon=/home/pi/V7/DMR.png
+Exec=sh -c 'cd /home/pi/V10;sleep 5;lxterminal --geometry=72x15 -e sudo sh ejecutar_bm.sh'
+Icon=/home/pi/V10/DMR.png
 Type=Application
 StartupNotify=false
 Categories=GTK;Utility;TerminalEmulator;
 Terminal=false
-Name[es_ES]=Abrir BM
+Name[es_ES]=Abrir BMX
 Hidden=false
 Comment[es_ES]=EA3EIZ
 
