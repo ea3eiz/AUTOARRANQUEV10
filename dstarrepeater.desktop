@@ -1,8 +1,8 @@
 [Desktop Entry]
 Encoding=UTF-8
 TryExec=lxterminal
-Exec=sh -c 'cd /home/pi/V7;sleep 5; sudo sh ejecutar_solodstar_04.sh'
-Icon=/home/pi/V7/repeater.png
+Exec=sh -c 'cd /home/pi/V10;sleep 5; sudo sh ejecutar_solodstar.sh'
+Icon=/home/pi/V10/repeater.png
 Type=Application
 StartupNotify=false
 Categories=GTK;Utility;TerminalEmulator;
